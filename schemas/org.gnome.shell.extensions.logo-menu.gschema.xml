@@ -5,74 +5,74 @@
 
     <key type="i" name="menu-button-icon-image">
       <default>0</default>
-      <summary>Menu Button Icon Image</summary>
-      <description>Change the Menu Button Icon Image.</description>
+      <summary>Imagem do ícone de botão</summary>
+      <description>Muda a imagem do ícone de botão.</description>
     </key>
 
     <key type="i" name="menu-button-icon-size">
       <default>25</default>
-      <summary>Menu Button Icon Size</summary>
-      <description>Change the Menu Button Icon Size.</description>
+      <summary>Tamanho do ícone de botão Menu</summary>
+      <description>Muda o tamanho do ícone de botão Menu.</description>
     </key>
 
     <key type="i" name="menu-button-icon-click-type">
       <default>2</default>
-      <summary>Menu Button click type to open Activity</summary>
-      <description>Change the Menu Button click type to open Activity.</description>
+      <summary>Tipo de clique no botão Menu para abrir a atividade.</summary>
+      <description>Altera o tipo de clique do botão Menu para abrir a atividade.</description>
     </key>
 
     <key type="s" name="menu-button-extensions-app">
       <default>"org.gnome.Extensions.desktop"</default>
-      <summary>Preffered Extensions app</summary>
-      <description>Change to preffered Extensions app.</description>
+      <summary>Aplicativo de extensões preferido</summary>
+      <description>Altera para o aplicativo de extensões preferido.</description>
     </key>
 
     <key type="s" name="menu-button-software-center">
       <default>"gnome-software"</default>
-      <summary>Menu Button Software Center</summary>
-      <description>Change the Menu Button Software Center.</description>
+      <summary>Botão Menu para a Central de Programas</summary>
+      <description>Muda o botão Menu para a Central de Programas.</description>
     </key>
 
     <key type="s" name="menu-button-terminal">
       <default>"gnome-terminal"</default>
-      <summary>Menu Button Terminal</summary>
-      <description>Change the Menu Button Terminal.</description>
+      <summary>Botão Menu do Terminal</summary>
+      <description>Muda para o botão Menu do Terminal.</description>
     </key>
 
     <key type="b" name="show-power-options">
       <default>false</default>
-      <summary>Toggle power options visibility</summary>
-      <description>Toggle power options visibility.</description>
+      <summary>Visibilidade das opções de energia</summary>
+      <description>Altera a visibilidade das opções de energia.</description>
     </key>
 
      <key type="b" name="use-custom-icon">
       <default>false</default>
-      <summary>Use Custom Icon</summary>
-      <description>Whether to use a custom icon or not.</description>
+      <summary>Usar botão personalizado</summary>
+      <description>Usar ou não um ícone personalizado.</description>
     </key>
 
     <key type="s" name="custom-icon-path">
       <default>"''"</default>
-      <summary>Custom Icon Path</summary>
-      <description>Path to the custom icon image file.</description>
+      <summary>Caminho do botão personalizado</summary>
+      <description>Caminho para o arquivo de imagem do ícone personalizado.</description>
     </key>
 
     <key type="b" name="hide-forcequit">
       <default>false</default>
-      <summary>Toggle Force Quit option visibility</summary>
-      <description>Toggle Force Quit option visibility.</description>
+      <summary>Visibilidade da opção Forçar Encerrar</summary>
+      <description>Altera a visibilidade da opção Forçar Encerrar</description>
     </key>
 
     <key type="b" name="show-lockscreen">
       <default>false</default>
-      <summary>Toggle Lock screen option visibility</summary>
-      <description>Toggle Force Quit option visibility.</description>
+      <summary>Visibilidade da opção de tela de bloqueio</summary>
+      <description>Alterna a visibilidade da opção de Tela de Bloqueio</description>
     </key>
 
     <key type="b" name="hide-softwarecentre">
       <default>false</default>
-      <summary>Toggle Software Centre option visibility</summary>
-      <description>Toggle Software Centre option visibility.</description>
+      <summary>Visibilidade da opção Central de Software</summary>
+      <description>Altera a opção de visibilidade da Central de Software.</description>
     </key>
 
     <key type="b" name="show-activities-button">
@@ -83,21 +83,21 @@
     
     <key type="b" name="hide-icon-shadow">
       <default>false</default>
-      <summary>Toggle visibility of the top panel icon's shadow </summary>
-      <description>Toggle visibility of the top panel icon's shadow.</description>
+      <summary>Visibilidade da sombra do ícone do painel superior</summary>
+      <description>Alternar a visibilidade da sombra do ícone do painel superior.</description>
     </key>
 
 
     <key type="b" name="symbolic-icon">
       <default>true</default>
-      <summary>Toggle if user chose symbolic or coloured distro logo</summary>
-      <description>Toggle if user chose symbolic or coloured distro logo.</description>
+      <summary>Alternar se o usuário escolheu o logotipo simbólico ou colorido da distribuição</summary>
+      <description>Alterna se o usuário escolheu o logotipo simbólico ou colorido da distribuição</description>
     </key>
 
     <key type="s" name="menu-button-system-monitor">
       <default>"gnome-system-monitor"</default>
-      <summary>Menu System Monitor</summary>
-      <description>Change the Menu System Monitor.</description>
+      <summary>Menu do Monitor de Sistema</summary>
+      <description>Muda o menu do Monitor de Sistema.</description>
     </key>
   </schema>
 
